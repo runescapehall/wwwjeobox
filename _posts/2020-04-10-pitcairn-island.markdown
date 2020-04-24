@@ -3,7 +3,7 @@ layout: post
 title: "This Remote Tiny Island Only Has 56 Residents. Is the Place to Escape It All?"
 permalink: /3668/this-tiny-island-in-the-middle-of-nowhere-has-48-residents-after-seeing-this-i-want-to-be-49/
 date: 2017-10-10
-image: https://web.archive.org/web/20141022153900im_/http://s3-ec.buzzfed.com/static/2014-03/enhanced/webdr03/6/22/anigif_enhanced-buzz-10220-1394164333-6.gif
+image: https://web.archive.org/web/20140328133546im_/http://cdn.viralnova.com/wp-content/uploads/2014/02/small-island1.jpg
 tags: wanderlust
 ---
 
