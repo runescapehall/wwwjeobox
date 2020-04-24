@@ -7,8 +7,8 @@ image: https://web.archive.org/web/20140225234549im_/http://cdn.viralnova.com/wp
 tags: awesome
 ---
 
-Armed with only box cutters, hot glue, a hand full of able bodied volunteers and enough cardboard to make Amazon jealousÂ 
-one man managed to sculpture this breathtaking sculpture of a full-sized ghost ship.
+Armed with only box cutters, hot glue, a hand full of able bodied volunteers and enough cardboard to make Amazon jealous. 
+One man managed to sculpture this breathtaking sculpture of a full-sized ghost ship.
 
 Explaining where he gets all the cardboard for his sculptures he says:Â ”Cardboard is everywhere. Over the years I’ve developed a system called ‘trolling’ which is a process of driving around the streets with a buddy looking for piles of cardboard. We have some go to sources but it’s more fun to ‘troll’”…so pretty much dumpster diving in the name of incredible art.
 
