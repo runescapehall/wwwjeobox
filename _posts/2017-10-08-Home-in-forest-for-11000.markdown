@@ -7,7 +7,7 @@ image: https://web.archive.org/web/20140119213251im_/http://cdn.viralnova.com/wp
 tags: living
 ---
 
-I’ve never metÂ Brian Schulz, but he’s now my hero. He had an idea to build a Japanese Forest House in the middle of an Oregon forest… and after 1 1/2 years and $11,000, he completed it.
+I’ve never met Brian Schulz, but he’s now my hero. He had an idea to build a Japanese Forest House in the middle of an Oregon forest… and after 1 1/2 years and $11,000, he completed it.
 
 What’s even better about this home in the woods, it was mostly built from natural, locally sourced materials. In other words, this place was mostly funded by his hard work and innovation – something truly inspiring. Take a look at Schulz’s home and his journey along the way below.
 
@@ -76,7 +76,6 @@ This is Brian with a kayak that he built. He clearly has an unbelievable talent.
 ![](https://web.archive.org/web/20140119213317im_/http://cdn.viralnova.com/wp-content/uploads/2014/01/brian.jpg)
 
 
-Schulz stated that the $11,000 cash mostly went to concrete, insulation and shakes. After all, it’s tough to build a home this awesome
-completely from your surroundings. All in all, he did a fantastic job that should inspire the creativity in all of us. As much as I love the house, his experience building it is absolutely priceless.
+Schulz stated that the $11,000 cash mostly went to concrete, insulation and shakes. After all, it’s tough to build a home this awesome, completely from your surroundings. All in all, he did a fantastic job that should inspire the creativity in all of us. As much as I love the house, his experience building it is absolutely priceless.
 
 Source: Cape Falcon Kayak A year and a half of work deserves some credit. Share this awesome house with others; inspire them.
