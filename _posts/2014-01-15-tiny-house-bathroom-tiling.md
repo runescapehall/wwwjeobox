@@ -1,5 +1,4 @@
 ---
----
 title: Tiny House: Bathroom Tiling + Housewarming
 image: https://live.staticflickr.com/5675/20556756251_b98ddc072c_c_d.jpg
 tags: sustainable
