@@ -86,9 +86,6 @@ Plus, each resident works a few different jobs, with the average income of the i
 No matter how different living here may be… you’re surrounded by beauty, each day and night.
 ![](https://web.archive.org/web/20140328105122im_/http://cdn.viralnova.com/wp-content/uploads/2014/02/small-island27.jpg)
 
-Everyone literally knows your name (and even your heritage). The island’s entire population shows up to birthday parties.
-![](https://web.archive.org/web/20140328105122im_/http://cdn.viralnova.com/wp-content/uploads/2014/02/small-island27.jpg)https://web.archive.org/web/20140328105122im_/http://cdn.viralnova.com/wp-content/uploads/2014/02/small-island27.jpg
-
 It’s heaven on Earth. Good luck if you try to find it!
 ![](https://web.archive.org/web/20140328103123im_/http://cdn.viralnova.com/wp-content/uploads/2014/02/small-island28.jpg)
 
