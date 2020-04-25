@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What This Couple Built In Their House Is Straight Out Of A Creepy Castle. But It’s AWESOME."
+title: "Box Cutter Boat From Reddit"
 permalink: /9572/what-this-couple-built-in-their-house-is-straight-out-of-a-creepy-castle-but-its-awesome/
 date: 2020-02-02
 image: https://web.archive.org/web/20140225234549im_/http://cdn.viralnova.com/wp-content/uploads/2014/01/cardboard_ghost_ship_02.jpg
