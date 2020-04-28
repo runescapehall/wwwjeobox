@@ -65,10 +65,11 @@ layout: default
 		<div class="col-md-12 col-lg-8">
             
             <!-- Article -->
-			<article class="article-post">                
+			<article class="article-post">
+				 
 			{{ content }}                
 			</article>
-			
+			<div id="amzn-assoc-ad-aa97cc64-3cb4-4227-bc28-4c061b5d9ba1"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=aa97cc64-3cb4-4227-bc28-4c061b5d9ba1"></script>
 			<!-- Tags -->
 			<div class="mb-4">
 				<span class="taglist">
@@ -94,7 +95,7 @@ layout: default
 								<input type="email" placeholder="Enter e-mail address" name="EMAIL" class="required email form-control w-100" id="mce-EMAIL" autocomplete="on" required>
 							
 							
-								<button type="submit" value="Subscribe" name="subscribe" class="heart btn btn-success btn-block w-100 mt-2">Subscribe</button>
+			 				<button type="submit" value="Subscribe" name="subscribe" class="heart btn btn-success btn-block w-100 mt-2">Subscribe</button>
 							
                             </div>
                             </form>
@@ -104,21 +105,7 @@ layout: default
 			</div>
             {% endif %}
             
-            
-             <!-- Author Box -->
-                {% if page.author %}				
-				<div class="row mt-5">
-					<div class="col-md-2 align-self-center">
-                         {% if author.avatar %}
-                        <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="90"/>
-                        {% endif %} 
-					</div>
-					<div class="col-md-10">		
-                        <h5 class="font-weight-bold">Written by {{ author.name }} {% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span>{% endif %}</h5>
-						{{ author.bio }}					
-					</div>
-				</div>				
-                {% endif %}
+          
             
             <!-- Comments -->
             {% if page.comments != false %}
