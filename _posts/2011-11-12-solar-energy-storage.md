@@ -1,5 +1,5 @@
 ---
-title: Make Solar Panels: Energy Storage
+title: Make Solar Panels Energy Storage
 tags: sustainable
 ---
 
