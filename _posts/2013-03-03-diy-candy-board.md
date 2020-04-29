@@ -36,7 +36,7 @@ To build the frame:
 
 3. Time to add an entrance/exit hole. Find the center of one of the shorter boards (the front and back pieces). With a 5/8 inch drill bit, make the hole near the bottom of the board. (When placed on the hive, this hole will sit just peeking out from the telescoping lid so that is why you want it placed towards the bottom of the board and not centered.)
 
-![](https://web.archive.org/web/20130922061108im_/http://homesteadrules.com/wp-content/uploads/2012/01/candy-board-1-225x300.jpg_
+![](https://web.archive.org/web/20130922061108im_/http://homesteadrules.com/wp-content/uploads/2012/01/candy-board-1-225x300.jpg)
 
 4. Now for a bit of “do as I say, not as I do”. We cut the hardware cloth to the exact size of the box with about an inch extra. We then used poultry staples to attach the cloth to the box. This is NOT what we will do when we build more of these. Why not? Because the staples and hardware cloth don’t let it sit snug against the hive body when we put them on the hive.
 ![](https://web.archive.org/web/20130922073912im_/http://homesteadrules.com/wp-content/uploads/2012/01/candy-board-4-225x300.jpg)
@@ -59,7 +59,9 @@ To make the candy:
 Again, this step is not required but is recommended.
 
 4. Plop the mixture into the frame and smooth it around. Leave some space around the entrance/exit hole so that the bees have room to come and go.
-![](https://web.archive.org/web/20120309230059im_/http://homesteadrules.com/wp-content/uploads/2012/01/candy-board-7-300x225.jpg_
+
+![](https://web.archive.org/web/20120309230059im_/http://homesteadrules.com/wp-content/uploads/2012/01/candy-board-7-300x225.jpg)
+
 5. We decided to include a winter pollen patty for them as another food source. Using a glass bowl, I made a hole to put the pollen patty into. Someone used a piece of a 2×4 board to do this, other people just pushed the sugar out of the way with a spatula. Whatever works for you.
 ![](https://web.archive.org/web/20130922063046im_/http://homesteadrules.com/wp-content/uploads/2012/01/candy-board-8-225x300.jpg)
 
