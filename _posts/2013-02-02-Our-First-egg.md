@@ -1,5 +1,5 @@
 ---
-title: 
+title: Our First Egg
 image:
 tags: sustainable, homestead
 
