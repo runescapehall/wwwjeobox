@@ -1,5 +1,5 @@
 ---
-Title: Affilliate Disclosure
+Title: Affiliate Disclosure
 layout: page
 ---
 
