@@ -1,5 +1,6 @@
 ---
 title: 26 Decisions That Are Incredibly Difficult For Third Culture Kids
+layout: post
 permalink: /1700/26-decisions-that-are-incredibly-difficult-for-third-culture-kids/
 tags: wanderlust
 ---
