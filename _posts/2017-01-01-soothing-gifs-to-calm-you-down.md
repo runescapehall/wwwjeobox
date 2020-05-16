@@ -27,7 +27,7 @@ imgur.com
 giphy.com
 
 ## 6. Clear out all your thoughts.
-![]https://web.archive.org/web/20140906095759im_/http://s3-ec.buzzfed.com/static/2014-04/enhanced/webdr06/22/8/anigif_enhanced-5173-1398171224-5.gif(https://web.archive.org/web/20140906095759im_/http://s3-ec.buzzfed.com/static/2014-04/enhanced/webdr06/22/8/anigif_enhanced-5173-1398171224-5.gif)
+![](https://web.archive.org/web/20140906095759im_/http://s3-ec.buzzfed.com/static/2014-04/enhanced/webdr06/22/8/anigif_enhanced-5173-1398171224-5.gif)
 youtube.com
 
 ## 7. Let the calm wash over you.
