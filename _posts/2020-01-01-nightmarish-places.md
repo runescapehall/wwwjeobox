@@ -3,6 +3,7 @@ title: These 19 Nightmarish Places Will Keep You Awake At Night
 layout: post
 permalink: /5771/these-19-nightmarish-places-will-keep-you-awake-at-night-they-sent-chills-down-my-spine/
 tags: wanderlust
+image: https://web.archive.org/web/20140328081924im_/http://cdn.viralnova.com/wp-content/uploads/2014/03/01-Hoia-Baciu-Forest-Romania.jpg
 ---
 
 As you go about your daily life, it’s easy to forget all of the weird and wonderful things that are tucked away around the world. A Redditor cobbled together 19 of the strangest places on earth, reminding us all of the creepy things that could be hidden in our very towns. Dark forests, abandoned cities, strange museums and other oddities are everywhere.
