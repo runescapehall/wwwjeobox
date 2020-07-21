@@ -1,12 +1,12 @@
 ---
 title: What Lurks In My Compost
-image: https://web.archive.org/web/20151223083332im_/http://homesteadrules.com/wp-content/uploads/2011/07/compost-1-e1310480688307.jpg
+image: https://i.imgur.com/xNfkJio.jpg
 tags: sustainable
 ---
 With the addition of the pigs to the homestead, we aren’t generating as much compost these days. All food and garden scraps are heading to the piggies instead. And when I do have something that the pigs won’t eat (not much, believe me!) I have been sending a kid out to throw it into the compost pile. I mean, that’s why I have children: to run things all over the homestead for me while I sit inside and eat bon-bons and watch my stories.
 
 So imagine my surprise when, the other day while I was mowing, I drove by the compost bin and saw this:
-![](https://web.archive.org/web/20151223083332im_/http://homesteadrules.com/wp-content/uploads/2011/07/compost-1-e1310480688307.jpg)
+![](https://i.imgur.com/xNfkJio.jpg)
 
 Old potatoes added to the compost bin grew into potato plants
 
