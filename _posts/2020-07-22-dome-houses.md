@@ -34,7 +34,7 @@ However, there are also issues such as dome shaped constructions, which facilita
 
 In addition, dome houses in summer are better cooled because, by positioning the windows optimally, the interior air circulates throughout the house because the dome directs the movement of the air so that it reaches the entire house.
 
-##Advantages of dome houses
+## Advantages of dome houses
 
 **The main advantages of dome houses are:**
 
