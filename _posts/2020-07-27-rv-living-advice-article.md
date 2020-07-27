@@ -45,7 +45,7 @@ Take your time, get used to its dimensions, practice parking it, going under tre
 
 You'll feel like you're learning to drive again!
 
-## 2FAMILIARIZE YOURSELF WITH ITS OPERATION
+## FAMILIARIZE YOURSELF WITH ITS OPERATION
 
 Now we move on to the "house" part of this vehicle.
 
