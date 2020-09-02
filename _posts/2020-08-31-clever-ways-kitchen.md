@@ -1,7 +1,7 @@
 ---
 title: 27 Clever Ways To Use Everyday Stuff In The Kitchen
 layout: post
-iamge: https://i.imgur.com/wfiGpty.jpg
+image: https://i.imgur.com/wfiGpty.jpg
 permalink: /3704/27-clever-ways-to-use-everyday-stuff-in-the-kitchen/
 ---
 
