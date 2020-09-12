@@ -3,7 +3,7 @@ title: The Top Tips To Take Care Of Your Back
 layout: post
 tags: life
 permalink: /tips-to-take-care-of-your-back
-image: https://i.imgur.com/HLYnaJI.jpg
+image: https://i.imgur.com/0t6SGzY.jpg
 --- 
 
 Are you one of the many people that suffer from back pain? If so, you aren't alone. Believe it or not, but over 80% of people end up experiencing back pain at some point in their lifetime. Back pain can be debilitating and it can cause you to be unable to do even the most simple tasks.
