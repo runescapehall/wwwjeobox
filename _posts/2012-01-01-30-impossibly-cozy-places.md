@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 30 Impossibly Cozy Places You Could Die Happy In
-permalink: /30-impossibly-cozy-places-you-could-die-happy-in/
+permalink: /3989/30-impossibly-cozy-places-you-could-die-happy-in/
 tags: life
 ---
 
