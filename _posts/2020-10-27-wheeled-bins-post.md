@@ -1,7 +1,7 @@
 ---
 title: Wheeled Bins Advantages Where to Buy The Right Bin?
 layout: post
-image: https://i.imgur.com/IKcM9rp.jpg
+image: https://i.imgur.com/zphbNPV.jpg
 permalink: /wheeled-bins-advantages-where-to-buy-the-right-bin
 ---
 
