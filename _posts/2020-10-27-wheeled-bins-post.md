@@ -12,7 +12,8 @@ Garbage disposal has always been a problem for urban residents. Every year the v
 Proper storage of garbage wastes is important from an ecological, epidemiological, and environmental point of view. For these reasons, choosing the right bin plays a significant role, although many people mistakenly believe otherwise.
 
 Both the material and the design of the waste container are important. Do not forget about the aesthetic component, because one way or another you will constantly see the bin in front of your house. Recently, more and more people prefer wheeled bins. This is not a random choice, and later, you will see why it is so.
-Advantages of Wheeled Bins
+
+## Advantages of Wheeled Bins
 
 It would seem that the advantages of using such bins are obvious, but not everyone understands them completely. Here are the main benefits that everyone should know about:
 
