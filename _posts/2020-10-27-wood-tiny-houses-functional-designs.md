@@ -29,7 +29,7 @@ To successfully furnish a small wooden house, it is still necessary to respect s
 
 ![](https://i.imgur.com/mABHSyU.jpg)
 
-Vous rêvez d’une petite maison bois meublée d’un façon peu ordinaire ? Alors, jetez un coup d’œil sur la photo ci-dessus pour découvrir ce mini salon accueillant doté d’un escalier qui mène à la chambre à coucher. Riquiqui mais confortable, la chambre à coucher dispose d’un grand lit deux places ainsi qu’une petite table de nuit qui peut sans problème héberger une belle lampe de chevet.
+Do you dream of a small wooden house furnished in an unusual way? Then take a look at the photo above to discover this cosy mini living room with a staircase leading to the bedroom. Riquiqui but comfortable, the bedroom has a double bed and a small bedside table that can easily accommodate a beautiful bedside lamp.
 
 ## Tips and tricks for a successful layout of a small log house!
 
