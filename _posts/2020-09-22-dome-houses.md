@@ -51,6 +51,6 @@ In addition, dome houses in summer are better cooled because, by positioning the
 - Dome houses can suffer deformations caused by heating or cooling weather. So, in areas of climates with very contrasting seasons, it will be easy for this to happen.
 - The need for light weight and the lack of adequate flexible materials is a problem.
 - They also have the disadvantage that, being curved on the sides, they make the interior spaces somewhat more difficult to use. For example, to fit furniture or cabinets, unless we find furniture to our liking with the right shape, which is otherwise difficult.
-- The cost of special windows for this type of ecological house can be 10 to 15 times more expensive than in common houses.
+- The cost of special windows for this type of [ecological house](http://www.jeobox.com/5-ecological-houses-with-little-money) can be 10 to 15 times more expensive than in common houses.
 - The prices to put the wiring in these houses are high.
 - Inside there can be problems with privacy, odors and noise pollution. As there are few differentiated spaces and the great complication of creating dividing walls. For example, if you want to listen to music while you study and another person wants to watch sports and a third person wants to watch their favourite show; either they all wear headphones or there will be a battle to get to hear what each person wants.
