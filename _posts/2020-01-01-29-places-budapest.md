@@ -4,7 +4,6 @@ layout: post
 permalink: /5707/29-places-that-prove-budapest-is-the-most-stunning-city-in-europe/
 ---
 
-</p><h2 class="my-title bz-title">1. </h2>
 <h2 class="my-title bz-title">Halászbástya (Fisherman’s Bastion)</h2>
 <p> One of several landmarks that were built in the late 1800s to celebrate the 1000-year anniversary of the founding of Hungary, the Fisherman’s Bastion is made up of 7 towers, representing the 7 Magyar tribes that founded the nation. Sitting atop Castle Hill, the Bastion provides some of the most spectacular views of the Danube and city.
 </p><div class="embeded-image"><img src="http://web.archive.org/web/20140331023619im_/http://s3-ec.buzzfed.com/static/2014-02/enhanced/webdr03/25/18/enhanced-buzz-wide-21498-1393372116-20.jpg"></div>
