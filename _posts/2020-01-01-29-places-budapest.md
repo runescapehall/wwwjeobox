@@ -211,4 +211,3 @@ permalink: /5707/29-places-that-prove-budapest-is-the-most-stunning-city-in-euro
 <h2 class="my-title bz-title">*Bye*</h2>
 <div class="embeded-image"><img src="http://web.archive.org/web/20140331023619im_/http://s3-ec.buzzfed.com/static/2014-02/enhanced/webdr04/25/17/enhanced-buzz-wide-25561-1393367813-34.jpg"></div>
 <div class="my-caption">James Farley – 2012/James Farley – 2012 </div>
-</div>
