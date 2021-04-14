@@ -81,30 +81,59 @@ layout: default
 			</div>
                         
             <!-- Mailchimp Subscribe Form -->
-            {% if site.mailchimp-list %}
-			<div class="border p-5 bg-lightblue">
-				<div class="row justify-content-between">
-					<div class="col-md-6 mb-2 mb-md-0">
-						<h5 class="font-weight-bold">Join Newsletter</h5>
-						 Get the latest news right in your inbox. We never spam!
-					</div>
-					<div class="col-md-6">
-						<div class="row">
-                            <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate w-100" target="_blank" novalidate>
-                            <div class="mc-field-group">
-							
-								<input type="email" placeholder="Enter e-mail address" name="EMAIL" class="required email form-control w-100" id="mce-EMAIL" autocomplete="on" required>
-							
-							
-			 				<button type="submit" value="Subscribe" name="subscribe" class="heart btn btn-success btn-block w-100 mt-2">Subscribe</button>
-							
-                            </div>
-                            </form>
-						</div>
-					</div>
-				</div>
+			<div class="Subscribe-Form">
+<style>
+      @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700');
+      .form-preview {
+      display: block;
+      margin-top: 30px;
+      padding: 40px 50px 40px 50px;
+      max-width: 350px;
+      min-height: 200px;
+      border-radius: 6px;
+      box-shadow: 0 5px 25px rgba(34, 60, 47, 0.25);
+      }
+      .form-preview .preview-heading {
+      width: 100%;
+      }
+      .form-preview .preview-input-field {
+      margin-top: 20px;
+      width: 100%;
+      }
+      .form-preview .preview-input-field input {
+      width: 100%;
+      height: 40px;
+      border-radius: 6px;
+      border: 2px solid #e9e8e8;
+      background-color: #fff;
+      outline: none;
+      }
+      .form-preview .preview-input-field input::placeholder, .form-preview .preview-input-field input {
+      opacity: 0.5;
+      color: #000;
+      font-family: "Montserrat";
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 20px;
+      text-align: center;
+      }
+      .form-preview .preview-submit-button {
+      margin-top: 10px;
+      width: 100%;
+      }
+      .form-preview .preview-submit-button button {
+      width: 100%;
+      height: 40px;
+      border: 0;
+      border-radius: 6px;
+      line-height: 0px;
+      }
+      .form-preview .preview-submit-button button:hover {
+      cursor: pointer;
+      }
+
+      </style><form data-v-1ed4bb5e="" action="https://api.follow.it/subscription-form/a2ZrWEFLZ1ZkQ05xd05IaEhqUHE0eUg3a2hvZ2hSbVltVlUyZUQ2WHVwMEVCMEd6UWVpZ0RXYU1mdmx6VmdOdnJQcXZpSjhxZHRWb3JuUEpEcDBMN002SFZlUWl3a2pQbjBILzRwblZCN1oyRnlqTzIvWU5RcWF3cmFWU3NJMWR8Q29MbS9JelVzdEZWczNsZFJUZkFXMGtvMHB6MkNtdUtaV2orTW1vTWNjVT0=/8" method="post"><div data-v-1ed4bb5e="" class="form-preview" style="background-color: rgb(255, 255, 255); border-style: solid; border-width: 3px; border-color: rgb(204, 204, 204); position: relative;"><div data-v-1ed4bb5e="" class="preview-heading"><h5 data-v-1ed4bb5e="" style="font-family: Montserrat; font-weight: bold; color: rgb(0, 0, 0); font-size: 16px; text-align: center;">Get new posts by email:</h5></div> <div data-v-1ed4bb5e="" class="preview-input-field"><input data-v-1ed4bb5e="" type="email" name="email" placeholder="Enter your email" spellcheck="false"></div> <div data-v-1ed4bb5e="" class="preview-submit-button"><button data-v-1ed4bb5e="" type="submit" style="font-family: Montserrat; font-weight: bold; color: rgb(255, 255, 255); font-size: 16px; text-align: center; background-color: rgb(0, 0, 0);">Subscribe</button></div></div></form>
 			</div>
-            {% endif %}
             
 		</div>
         
