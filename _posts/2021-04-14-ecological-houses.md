@@ -42,7 +42,7 @@ This environmentally friendly prefabricated house stands out for consuming 30% l
 Interior skylight in the sustainable "yurt" house
 ![](https://i.imgur.com/GVZeccog.jpg)
 
-## Hobbit house for $3,000
+## Hobbit house for £3,000
 ![](https://i.imgur.com/2xcs9A5.jpg)
 
 Cheap ecological Hobbit house / Photo: [Simon Dale](http://www.simondale.net/)
@@ -52,6 +52,8 @@ For Lord of the Rings fans, building a hobbit house from recycled materials can 
 Some of the cheap materials used by their builder Simon Dale were rocks, mud, recycled wood and openings, used plumbing and wiring.
 
 Integrated with a hill and equipped with skylights and roofs that collect water, this house is not only amazing, but also environmentally friendly.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CKyed6Qh48U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Circular adobe hut
 ![](https://i.imgur.com/B1N8jgp.jpg)
