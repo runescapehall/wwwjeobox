@@ -12,27 +12,27 @@ If building a house is one of your dreams, you could opt for an unconventional w
 
 Small house of 22 square meters built by an architect / Photo: Macy Miller
 
-For young architect Macy Miller, building a sustainable house from scratch was a challenge. Construction can move around just like a mobile home, and while it remains connected to the power grid for now, the goals for the future are to generate its own electricity and add a chicken coop.
+For young architect [Macy Miller](https://tinyhouseplans.com/macy-miller/), building a sustainable house from scratch was a challenge. Construction can move around just like a mobile home, and while it remains connected to the power grid for now, the goals for the future are to generate its own electricity and add a chicken coop.
 
 This cozy 22-square-meter home includes an eco-friendly dry toilet, thermal insulation and water filtering. The price of this 18-month self-construction is around 15 thousand dollars, but Macy commented in her blog that this amount is reasonable, since she pays only 93 dollars a month in bills.
 
 Interior view of the house
 ![](https://i.imgur.com/Tcaj3Jb.jpg)
 
-Colorful dome in six weeks
+## Colorful dome in six weeks
+
 ![](https://i.imgur.com/CnKEHB2.jpg)
 
-Colorful and unconventional, this house stands out in the landscape / Photo: Steve Areen
+Colorful and unconventional, this house stands out in the landscape / Photo: Steve Areen.
 
 In the middle of a mango farm in Thailand, Steve Areen built a beautiful 45 m2 dome house in six weeks for $9,000. His creator built it using cement blocks and clay bricks, but plans to build his next dome house with environmentally friendly materials such as mud and adobe.
 
 Everything about this house has an impact: the beautiful view, the spherical rooms, the colorful terracotta finish and the landscaping work.
 
+To see more about Steve's dome house, [check out his official website](http://steveareen.com/domehome/).
+
 ## Mongolian-inspired cottage
 ![](https://i.imgur.com/zRktDKU.jpg)
-
-House inspired by the circular forms of nature
-
 House inspired by the circular forms of nature / Photo: Rachel Ross
 
 Inspired by the Mongolian yurts, this circular house is located in a lush forest clearing. Designed by Rachel Ross, her husband and daughter, the "Magnolia 2300" is a home created on the basis of nature, with natural materials such as bamboo, beeswax and stones.
@@ -42,12 +42,12 @@ This environmentally friendly prefabricated house stands out for consuming 30% l
 Interior skylight in the sustainable "yurt" house
 ![](https://i.imgur.com/GVZeccog.jpg)
 
+She even has it [listed on Airnbnb](https://www.airbnb.co.uk/rooms/4454532).
+
 ## Hobbit house for $3,000
 ![](https://i.imgur.com/2xcs9A5.jpg)
 
-Cheap ecological Hobbit house
-
-Cheap ecological Hobbit house / Photo: Simon Dale
+Cheap ecological Hobbit house / Photo: [Simon Dale](http://www.simondale.net/)
 
 For Lord of the Rings fans, building a hobbit house from recycled materials can be a dream come true.
 
@@ -55,14 +55,11 @@ Some of the cheap materials used by their builder Simon Dale were rocks, mud, re
 
 Integrated with a hill and equipped with skylights and roofs that collect water, this house is not only amazing, but also environmentally friendly.
 
-Eco-friendly and cheap Hobbit house
-
 ## Circular adobe hut
 ![](https://i.imgur.com/B1N8jgp.jpg)
-
 "Cob house" and its orchard / Photo: Brian Liloia
 
-For a little over $3,000, Brian Liloia built a house out of cob (a material very similar to adobe) and wood. Without a bathroom, but very comfortable, the house has an approximate diameter of 6 meters.
+For a little over $3,000, [Brian Liloia built a house out of cob](https://www.reuters.com/article/idUS396870026620110512) (a material very similar to adobe) and wood. Without a bathroom, but very comfortable, the house has an approximate diameter of 6 meters.
 
 ![](https://i.imgur.com/m1wYoEg.jpg)
 
