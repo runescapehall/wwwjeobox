@@ -35,7 +35,7 @@ To see more about Steve's dome house, [check out his official website](http://st
 ![](https://i.imgur.com/zRktDKU.jpg)
 House inspired by the circular forms of nature / Photo: Rachel Ross
 
-Inspired by the Mongolian yurts, this circular house is located in a lush forest clearing. Designed by Rachel Ross, her husband and daughter, the "Magnolia 2300" is a home created on the basis of nature, with natural materials such as bamboo, beeswax and stones.
+Inspired by the Mongolian yurts, this circular house is located in a lush forest clearing. Designed by Rachel Ross, her husband and daughter, the [Magnolia 2300](https://www.pinterest.com/pin/343540277810801597/) is a home created on the basis of nature, with natural materials such as bamboo, beeswax and stones.
 
 This environmentally friendly prefabricated house stands out for consuming 30% less electricity thanks to its passive solar design with strongly insulated walls and strategically placed windows.
 
