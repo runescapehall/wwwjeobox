@@ -53,7 +53,7 @@ Some of the cheap materials used by their builder Simon Dale were rocks, mud, re
 
 Integrated with a hill and equipped with skylights and roofs that collect water, this house is not only amazing, but also environmentally friendly.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CKyed6Qh48U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="320" height="240" src="https://www.youtube.com/embed/CKyed6Qh48U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Circular adobe hut
 ![](https://i.imgur.com/B1N8jgp.jpg)
