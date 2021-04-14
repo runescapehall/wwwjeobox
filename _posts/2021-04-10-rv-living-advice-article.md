@@ -7,7 +7,7 @@ tags: living
 ---
 
 
-Are you planning to buy or rent a motorhome for your next trip? Perhaps you plan on making this your new living situtation to save money and/or have more freedom than renting an apartment.
+Are you planning to buy or rent a motorhome for your next trip? Perhaps you plan on making this your new living situtation to save money and/or have more freedom than renting an apartment...
 
 Let's confess something: when we bought our "house on wheels" we didn't have the slightest idea of what we were doing. But not the slightest idea.
 
