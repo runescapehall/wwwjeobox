@@ -8,7 +8,7 @@ tags: wanderlust
 ---
 
 
-Would you like to live on an island paradise? Do you like your privacy? If so, I found the island just for you.
+Would you like to live on an island paradise? Do you like your privacy? If so, I found the island just for you...
 
 In the middle of the South Pacific, there is a very tiny island that is a small British territory. What makes that island special that is today, only
 
