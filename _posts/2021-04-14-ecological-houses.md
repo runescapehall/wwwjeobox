@@ -42,8 +42,6 @@ This environmentally friendly prefabricated house stands out for consuming 30% l
 Interior skylight in the sustainable "yurt" house
 ![](https://i.imgur.com/GVZeccog.jpg)
 
-She even has it [listed on Airnbnb](https://www.airbnb.co.uk/rooms/4454532).
-
 ## Hobbit house for $3,000
 ![](https://i.imgur.com/2xcs9A5.jpg)
 
