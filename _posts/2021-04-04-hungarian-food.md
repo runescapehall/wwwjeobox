@@ -3,10 +3,10 @@ title: 33 Hungarian Foods The Whole World Should Know And Love
 layout: post
 image: https://i.imgur.com/ZGHtC4B.jpg
 permalink: /3716/33-hungarian-foods-the-whole-world-should-know-and-love/
-tags: awesome
+tags: awesome, food
 ---
 
-Though this country may be but little, their food is fierce.
+Though this country may be but little, their food is fierce...
 
 ## Lángos (fried dough)
 ![](https://i.imgur.com/l1rMPgi.jpg)
