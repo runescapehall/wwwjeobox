@@ -5,7 +5,7 @@ image: https://i.imgur.com/QQ4qxvh.jpg
 permalink: /5-ecological-houses-with-little-money
 ---
 
-If building a house is one of your dreams, you could opt for an unconventional way of building. The houses we present to you below are not only beautiful, but also sustainable and built on a limited budget. Are you up for it?
+If building a house is one of your dreams, you could opt for an unconventional way of building. The houses we present to you below are not only beautiful, but also sustainable and built on a limited budget... Are you up for it?
 
 ## Small house built by Macy Miller
 ![](https://i.imgur.com/QQ4qxvh.jpg)
