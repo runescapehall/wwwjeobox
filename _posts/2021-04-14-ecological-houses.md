@@ -29,7 +29,7 @@ In the middle of a mango farm in Thailand, Steve Areen built a beautiful 45 m2 d
 
 Everything about this house has an impact: the beautiful view, the spherical rooms, the colorful terracotta finish and the landscaping work.
 
-To see more about Steve's dome house, [check out his official website](http://steveareen.com/domehome/).
+<iframe width="320" height="240" src="https://www.youtube.com/embed/02NtjypMHwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Mongolian-inspired cottage
 ![](https://i.imgur.com/zRktDKU.jpg)
