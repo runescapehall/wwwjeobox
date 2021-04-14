@@ -3,7 +3,7 @@ layout: post
 title: "This Remote Tiny Island Only Has 56 Residents. Is the Place to Escape It All?"
 permalink: /3668/this-tiny-island-in-the-middle-of-nowhere-has-48-residents-after-seeing-this-i-want-to-be-49/
 date: 2017-10-10
-image: https://web.archive.org/web/20140328133546im_/http://cdn.viralnova.com/wp-content/uploads/2014/02/small-island1.jpg
+image: https://i.imgur.com/MdDyiA9.jpg
 tags: wanderlust
 ---
 
@@ -17,32 +17,32 @@ In the middle of the South Pacific, there is a very tiny island that is a small 
 How cool is that?
 
 The itty bitty Pitcairn Islands officially became a British territory in 1838.
-![](https://web.archive.org/web/20140328133546im_/http://cdn.viralnova.com/wp-content/uploads/2014/02/small-island1.jpg)
+![](https://i.imgur.com/cEeZpk0.jpg)
 Tony Probst
 
 There are less than 50 people (who were kind of the descendants of pirates) living on this tropical paradise.
-![](https://web.archive.org/web/20140329012315im_/http://cdn.viralnova.com/wp-content/uploads/2014/02/small-island2.jpg)
+![](https://i.imgur.com/9FOQRmY.jpg)
 
 Years ago, there were more, but the population has been dwindling due to their once-stiff residency requirements.
-![](https://web.archive.org/web/20140328105341im_/http://cdn.viralnova.com/wp-content/uploads/2014/02/small-island3.jpg)
+![](https://i.imgur.com/DaPwgKF.jpg)
 
 Now, if youâre looking to live permanently on Pitcairn without prior family ties, all you have to do is submit an application to the Island Council and the Governor.
-![](https://web.archive.org/web/20140328111556im_/http://cdn.viralnova.com/wp-content/uploads/2014/02/small-island.png)
+![](https://i.imgur.com/24wb2vB.png)
 
 Why would you want to live here? Because it’s absolutely gorgeous. You’ll never find a prettier coast or royal blue water.
-![](https://web.archive.org/web/20140328103003im_/http://cdn.viralnova.com/wp-content/uploads/2014/02/small-island3.png)
+![](https://i.imgur.com/m1X3pkC.png)
 
 Polynesians were the first settlers on the island. They left behind ancient petroglyphs found on the southeast side of the island.
-![](https://web.archive.org/web/20140328133437im_/http://cdn.viralnova.com/wp-content/uploads/2014/02/small-island6.jpg)
+![](https://i.imgur.com/DW9Ovfg.jpg)
 
 Next to the glyphs is the only sandy beach that the island has. Most of the island is covered with volcanic rock.
-![](https://web.archive.org/web/20140328111426im_/http://cdn.viralnova.com/wp-content/uploads/2014/02/small-island7.jpg)
+![](https://i.imgur.com/MHtCFCZ.jpg)
 
 You don’t have to live here to experience this, though. However, reaching the island can be tricky.
-![](https://web.archive.org/web/20140328112156im_/http://cdn.viralnova.com/wp-content/uploads/2014/02/small-island10.jpg)
+![](https://i.imgur.com/yKFfelo.jpg)
 
 An avid world-traveller, Tony Probst, has visited the island four times since 2011. He has been dubbed the island’s ambassador by the natives.
-![](https://web.archive.org/web/20140328112752im_/http://cdn.viralnova.com/wp-content/uploads/2014/02/small-island8.jpg)
+![]()
 
 So, with the permission of the residents, he is publishing these photos of the island to teach the world about beautiful Pitcairn.
 ![](https://web.archive.org/web/20140328111115im_/http://cdn.viralnova.com/wp-content/uploads/2014/02/small-island11.jpg)
