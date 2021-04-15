@@ -23,11 +23,6 @@ Here is a list of easy, quick, and relatively cheap snacks that you should try m
 ![](https://i.imgur.com/PDOhN9p.jpg)
 
 Here’s a reason to get excited about a classic-old combo: bananas — a darling energy-boosting carbohydrate — wrapped in wheat tortillas and peanut butter.
- 
-## Mason Jar Hummus and Veggies
-
-
-Mason jar fanatic or not, you can’t deny that this method syncs with gravity: It’s a mess-free way to transport your high-protein hummus and veggies in one container. If you're not a fan of hummus, you can do the same with other bean-based dips (pinto bean, black bean, etc.)
   
 ## Apple Sandwiches with Almond Butter and Granola
 ![](https://i.imgur.com/cRucNkS.jpg)
@@ -103,3 +98,7 @@ Oats + almonds + dates + peanut butter + honey = a compact healthy way to get yo
 ![](https://i.imgur.com/AQmz9Dp.jpg)
 
 Gain energy via oats, shredded coconut, honey-roasted hazelnuts, ground flaxseeds, and chia seeds. Gain happiness via Nutella.
+
+## Mason Jar Hummus and Veggies
+
+Mason jar fanatic or not, you can’t deny that this method syncs with gravity: It’s a mess-free way to transport your high-protein hummus and veggies in one container. If you're not a fan of hummus, you can do the same with other bean-based dips (pinto bean, black bean, etc.)
