@@ -8,87 +8,62 @@ tags: wanderlust
 ---
 
 
-Would you like to live on an island paradise? Do you like your privacy? If so, I found the island just for you...
+Do you like the idea of Living on an island with very few people? The Pitcairn Islands may be just for you.
 
-In the middle of the South Pacific, there is a very tiny island that is a small British territory. What makes that island special that is today, only
-
-56 people live on the it. Not only that, but they are all descendants of the British citizens that originally discovered the island. Their ancestors were sailors on the HMS Bounty that mutinied and settled on a nearby Tahiti and Pitcairn Island.
-
-How cool is that?
-
-The itty bitty Pitcairn Islands officially became a British territory in 1838.
-![](https://i.imgur.com/cEeZpk0.jpg)
-Tony Probst
-
-There are less than 50 people (who were kind of the descendants of pirates) living on this tropical paradise.
-![](https://i.imgur.com/9FOQRmY.jpg)
-
-Years ago, there were more, but the population has been dwindling due to their once-stiff residency requirements.
-![](https://i.imgur.com/DaPwgKF.jpg)
-
-Now, if you're looking to live permanently on Pitcairn without prior family ties, all you have to do is submit an application to the Island Council and the Governor.
-![](https://i.imgur.com/24wb2vB.png)
-
-Why would you want to live here? Because it’s absolutely gorgeous. You’ll never find a prettier coast or royal blue water.
-![](https://i.imgur.com/m1X3pkC.png)
-
-Polynesians were the first settlers on the island. They left behind ancient petroglyphs found on the southeast side of the island.
-![](https://i.imgur.com/DW9Ovfg.jpg)
-
-Next to the glyphs is the only sandy beach that the island has. Most of the island is covered with volcanic rock.
-![](https://i.imgur.com/MHtCFCZ.jpg)
-
-You don’t have to live here to experience this, though. However, reaching the island can be tricky.
-![](https://i.imgur.com/yKFfelo.jpg)
-
-An avid world-traveller, Tony Probst, has visited the island four times since 2011. He has been dubbed the island’s ambassador by the natives.
-![](https://i.imgur.com/DryrcAV.jpg)
-
-So, with the permission of the residents, he is publishing these photos of the island to teach the world about beautiful Pitcairn.
-![](https://i.imgur.com/rfzYpaL.jpg)
-
-Technically, the “island” consists of four small volcanic islands. Only one is inhabited, though.
-![](https://i.imgur.com/rfzYpaL.jpg)
-
-Even though most of the islands are rocky, that doesn’t stop natives from exploring.
-![](https://i.imgur.com/d7vDH5u.jpg)
-
-Taking a four-wheeler out or going on a hike is a wonderful way to enjoy their day.
-![](https://i.imgur.com/omUTF9O.jpg)
-
-There are only 8 children on the island. Emily is one of them.
-![](https://i.imgur.com/l9SO2eh.jpg)
-
-In 5 years time, 80% of the population of the island will be over 65. Soon, two teens will be leaving the island to go to high school in New Zealand.
-![](https://i.imgur.com/bSG2mdG.jpg)
-
-The island declared bankruptcy in 2004. The natives rely on tourism for income, but very few people actually visit Pitcairn.
-![](https://i.imgur.com/P9NuWzG.jpg)
-
-Even though these families live on a slice of paradise, it’s expensive. Utilities like electricity and Internet cost well over $100/month.
-![](https://i.imgur.com/LM1rna7.jpg)
-
-It’s worth the cost, though. Not only is the island beautiful, but it is incredibly safe. Most people leave their houses wide open, knowing no one will harm them.
-![](https://i.imgur.com/yosJL63.jpg)
-
-Pitcairn residents get all of their electricity powered through a generator. It stays on on for only a couple of hours a day and is shut off at 10 o’clock.
-![](https://i.imgur.com/1fF5xzt.jpg)
-
-The most common cause of death on the island? Old age. (And possibly being too happy.)
-![](https://i.imgur.com/G9Y97Tu.jpg)
-
-Life on the island is different than our lives. They base their days around when the next quarterly shipment of necessities is coming in.
-![](https://i.imgur.com/xCxiNd6.jpg)
-
-Plus, each resident works a few different jobs, with the average income of the island being less than $5,000.
-![](https://i.imgur.com/A3yyiAL.jpg)
-
-No matter how different living here may be… you’re surrounded by beauty, each day and night.
-![](https://i.imgur.com/vXBGdtM.jpg)
-
-It’s heaven on Earth. Good luck if you try to find it!
-![](https://i.imgur.com/hQ0EPOG.jpg)
+The Pitcairn Islands have only 56 residents, with everyone having to contribute labor towards building houses, farming, fishing, and even retreiving supplies that are dropped off by ships.
 
 This kind of life may not be for everyone, but if you feel like taking a shot at living in paradise check out Pitcairn Island. The trick to getting residency there is offering “skills which will be beneficial to the Pitcairn community,” according to [their government website](http://www.government.pn/).
 
-Maybe we can help their economy by letting more people know about this amazing, but secluded, vacation destination. 
+SInce 1838, the pitcairn islands had been a territory of Britain. Most of the residents are descended from the Bounty mutineers that were shipwrecked on the island in 1790. They are mixed between British and Tahitians,
+
+Photo gallery of the Pitcairn Islands.
+---
+
+![](https://i.imgur.com/cEeZpk0.jpg)
+Tony Probst
+
+![](https://i.imgur.com/9FOQRmY.jpg)
+
+![](https://i.imgur.com/DaPwgKF.jpg)
+
+![](https://i.imgur.com/24wb2vB.png)
+
+![](https://i.imgur.com/m1X3pkC.png)
+
+![](https://i.imgur.com/DW9Ovfg.jpg)
+
+![](https://i.imgur.com/MHtCFCZ.jpg)
+
+![](https://i.imgur.com/yKFfelo.jpg)
+
+![](https://i.imgur.com/DryrcAV.jpg)
+
+![](https://i.imgur.com/rfzYpaL.jpg)
+
+![](https://i.imgur.com/rfzYpaL.jpg)
+
+![](https://i.imgur.com/d7vDH5u.jpg)
+
+![](https://i.imgur.com/omUTF9O.jpg)
+
+![](https://i.imgur.com/l9SO2eh.jpg)
+
+![](https://i.imgur.com/bSG2mdG.jpg)
+
+![](https://i.imgur.com/P9NuWzG.jpg)
+
+![](https://i.imgur.com/LM1rna7.jpg)
+
+![](https://i.imgur.com/yosJL63.jpg)
+
+![](https://i.imgur.com/1fF5xzt.jpg)
+
+![](https://i.imgur.com/G9Y97Tu.jpg)
+
+![](https://i.imgur.com/xCxiNd6.jpg)
+
+![](https://i.imgur.com/A3yyiAL.jpg)
+
+![](https://i.imgur.com/vXBGdtM.jpg)
+
+![](https://i.imgur.com/hQ0EPOG.jpg) 
